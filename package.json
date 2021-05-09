@@ -13,7 +13,7 @@
     "@types/uuid": "3.4.4",
     "easy-peasy": "2.4.0",
     "expo": "^33.0.6",
-    "lodash": "4.17.11",
+    "lodash": "4.17.21",
     "luxon": "1.16.0",
     "polished": "3.4.1",
     "react": "16.8.6",
