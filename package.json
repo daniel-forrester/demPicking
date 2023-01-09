@@ -14,7 +14,7 @@
     "easy-peasy": "2.4.0",
     "expo": "^33.0.6",
     "lodash": "4.17.11",
-    "luxon": "1.16.0",
+    "luxon": "2.5.2",
     "polished": "3.4.1",
     "react": "16.8.6",
     "react-dom": "^16.8.6",
